@@ -1,0 +1,14 @@
+[
+
+    {
+        "title": "example (for testing)",
+        "link": "https://pastebin.com/",
+        "failureSelectorString": "xpath///button[@mode='ssecondary']",
+        "successSelectorString": "xpath///a[@href='/ssignup']"
+    }
+
+    
+
+]
+
+
