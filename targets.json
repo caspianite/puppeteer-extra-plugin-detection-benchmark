@@ -2,8 +2,8 @@
 
     {
         "title": "example (for testing)",
-        "link": "https://pastebin.com/",
-        "failureSelectorString": "xpath///button[@mode='ssecondary']",
+        "link": "https://example.com/",
+        "failureSelectorString": "/html/body/div/h11",
         "successSelectorString": "xpath///a[@href='/ssignup']"
     }
 
